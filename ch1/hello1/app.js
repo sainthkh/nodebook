@@ -1,0 +1,1 @@
+console.log('자 node.js 공부 시작합니다!')
